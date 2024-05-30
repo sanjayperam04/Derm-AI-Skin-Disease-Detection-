@@ -1,1 +1,1 @@
-# Derm-AI-Skin-Disease-Detection-
+# DERM-AI
